@@ -1,4 +1,4 @@
-package matheus.costa.minhacarteira.model;
+package matheus.costa.minhacarteira.enums;
 
 public enum TipoStatus {
 
